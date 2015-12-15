@@ -1,0 +1,99 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-image:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWuYdV8uPPhe4JA5xfSQrwhARSmJemzfnddJKvOGFOgKyo8F--);
+}
+
+h1{
+    font-family:Hobo Std;
+    padding:20px 100px 20px 100px;
+    margin:0px;
+    font-size:60px;
+    border-radius:20px;
+    background-color:white;
+    border-style:outset;
+}
+
+h2,h3{
+    font-family:"segoe ui black";
+    margin:20px 100px 20px 100px;
+    padding:0px;
+}
+        
+p{
+    padding:0px;
+    margin:20px 100px 20px 100px;
+    font-family:OCR a extended;
+   
+    
+    
+     
+}
+
+#nav {
+    padding:10px ;
+    background:black;
+    margin:0px;
+    font-family:Hobo Std;
+}
+
+#nav li{
+    display:inline;
+    margin-right:10px;
+}
+
+#faq{
+    width:600px;
+    background-color:white;
+    padding:30px;
+    list-style-type:none;
+    border-radius:20px;
+    border-style:outset;
+    line-height:2;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
+
+ul{
+    padding:0px;
+    margin:20px 100px 20px 100px;
+    font-family:"Kristen ITC";
+    
+}
+
+h4{
+    padding:0px;
+    margin:20px ;
+    font-family:"segoe ui black";
+    margin:20px 100px 20px 100px;
+}
+
+#par{
+    font-family:"Cooper Black";
+}
+
+#con{
+    list-style-type:none;
+    padding:0px;
+    margin:20px 100px 20px 100px;
+    font-family:"Kristen ITC";
+    
+}
+
+img{
+    float:right;
+    border:solid;
+}
+#slogan{
+    font-family:OCR a Std;
+}
+
+
+
+
+    
+
+
